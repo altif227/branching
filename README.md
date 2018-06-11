@@ -1,3 +1,4 @@
 # branching
 This is just another steps for learning path of GIT branching.
-One more steps
+One more step
+Merging and pushing updates
